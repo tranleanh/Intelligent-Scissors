@@ -1,4 +1,4 @@
-# Image-Scissors
-Image scissors application
+# Intelligent-Scissors
+Intelligent scissors application
 
-This repo includes source code for image scissoring application.
+This repo includes source code for intelligent scissoring application.

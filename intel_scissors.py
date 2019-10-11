@@ -15,15 +15,13 @@ import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
 
 import skimage
-import dicom
 from skimage import color
-from skimage import io
 from skimage import filters
 
 from math import fabs
 
 # Read and Pre-process image
-img_name = "../images/joker.jpg"
+img_name = "images/joker.jpg"
 image = mpimg.imread(img_name)
 image = color.rgb2gray(image)
 edges = filters.scharr(image)

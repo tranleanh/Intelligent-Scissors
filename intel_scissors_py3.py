@@ -23,7 +23,7 @@ from skimage import filters
 from math import fabs
 
 # Read and Pre-process image
-img_name = "../images/thanos.jpg"
+img_name = "images/thanos.jpg"
 image = mpimg.imread(img_name)
 image = color.rgb2gray(image)
 edges = filters.scharr(image)

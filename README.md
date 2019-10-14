@@ -6,7 +6,7 @@ This repo includes the scipt for intelligent scissors tool applied Dijkstra's al
 Reference: https://github.com/pdyban/livewire
 
 ## Requirements
-- Python 2.7
+- Run on Python 2.7 or Python 3.6
 - scikit-image, matplotlib
 
 ## Usage
@@ -18,7 +18,7 @@ Reference: https://github.com/pdyban/livewire
 
 ![picture](output/lenna.png)
 
-![picture](output/joker.png)
+![picture](output/thanos.png)
 
 Oct. 2019
 

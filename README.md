@@ -17,7 +17,7 @@ $ python intel_scissors.py
 ```
 - Python 3.6
 ```bashrc
-$ python intel_scissors_py3.py
+$ python3 intel_scissors_py3.py
 ```
 2. When the pop-up window is displayed, choose the seed points using mouse
 3. Press ESC on the keyboard to yield the output

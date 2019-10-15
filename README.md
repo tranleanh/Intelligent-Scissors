@@ -3,7 +3,9 @@ Intelligent scissors application
 
 This repo includes the scipt for intelligent scissors tool applied Dijkstra's algorithm.
 
-Reference: https://github.com/pdyban/livewire
+Reference: 
+- https://github.com/pdyban/livewire
+- https://zhengrui.github.io/iscissor.html
 
 ## Requirements
 - Run on Python 2.7 or Python 3.6
